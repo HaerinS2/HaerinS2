@@ -1,4 +1,4 @@
-<img src="header.png"></img><br/>
+<img src="header.png" title="header"></img><br/>
 
 <hr>
 
